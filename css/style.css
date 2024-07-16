@@ -1,0 +1,23 @@
+.api-key-input {
+    margin-bottom: 10px;
+}
+
+.api-key-input input {
+    width: 90%;
+}
+
+
+button#add-api-key {
+    margin-top: 20px;
+    background: #ddd;
+    border-color: #ddd;
+    padding: 10px 20px;
+    box-shadow: none;
+    cursor: pointer;
+}
+
+button.remove-api-key {
+    background: #f3bfbf;
+    border-color: #f3bfbf;
+    cursor: pointer;
+}
